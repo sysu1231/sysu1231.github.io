@@ -8,7 +8,7 @@
       <p><b>地址：广东省广州市中山大学东校区计算机学院</b></p>
     </td>
     <td width="30%">
-      <img src="/img/1.jpg" width="50%"> 
+      <img src="/img/1.jpg" width="100%"> 
     </td>
   </tr>
 </table>
